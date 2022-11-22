@@ -145,7 +145,7 @@ const Exchange = ({ pools }) => {
                         ${styles.actionButton}`
                 }
             >
-                {isSwapping ? "Swapping..." : hasEnoughBalace ? "Swap" : "Insufficient Balace"}
+                {isSwapping ? "Swapping..." : hasEnoughBalace ? "Swap" : "Insufficient Balance"}
             </button>
             }
             {

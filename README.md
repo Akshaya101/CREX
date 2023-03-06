@@ -1,4 +1,4 @@
-## Cryptocurrency Exchange Application
+## Purpose of this Project
 
 - To learn more about Decentralized systems and the concepts of Decentralized finance.
 - To be able to understand the differences between Decentralized and Centralized systems. 
